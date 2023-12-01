@@ -1,10 +1,11 @@
 ---
 home: true
+layout: BlogHome
 icon: home
 title: Project Home with features
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: Boloko
-tagline: Meu anti Alzheimer somulator
+heroText: Boloko blog
+tagline: Meu anti Alzheimer simulator
 actions:
   - text: Projetos
     link: .projects/
