@@ -9,7 +9,7 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "Mr.Hope",
+    name: "Boloko",
     url: "https://mister-hope.com",
   },
 
@@ -17,7 +17,7 @@ export default hopeTheme({
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "bolokoz/bolokoblog",
 
   docsDir: "src",
 
@@ -27,7 +27,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "Default footer",
+  footer: "Boloko blog",
 
   displayFooter: true,
 
@@ -77,7 +77,7 @@ export default hopeTheme({
   },
 
   metaLocales: {
-    editLink: "Edit this page on GitHub",
+    editLink: "Edit page",
   },
 
   plugins: {

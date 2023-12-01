@@ -4,10 +4,10 @@ export default sidebar({
   "/": [
     "",
     {
-      text: "Demo",
+      text: "Projects",
       icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
+      prefix: "projects/",
+      link: "projects/",
       children: "structure",
     },
     {
