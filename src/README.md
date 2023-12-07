@@ -1,23 +1,20 @@
 ---
 home: true
+layout: BlogHome
 icon: home
 title: Project Home with features
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: VuePress Theme Hope
-tagline: A VuePress theme with tons of features✨
+heroText: Boloko blog
+tagline: Meu anti Alzheimer simulator
 actions:
-  - text: Get Started
-    link: ./get-started/
+  - text: Projetos
+    link: .projects/
     icon: signs-post
     type: primary
 
-  - text: Guide
+  - text: Notas
     icon: lightbulb
-    link: ./guide/
-
-  - text: Demos
-    icon: star
-    link: ./demo/
+    link: ./notes//
 
 features:
   - title: Markdown Enhance
