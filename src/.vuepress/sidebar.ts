@@ -4,7 +4,7 @@ export default sidebar({
   "/": [
     "",
     {
-      text: "Projects",
+      text: "Projetos",
       icon: "laptop-code",
       prefix: "projects/",
       link: "projects/",
@@ -12,11 +12,10 @@ export default sidebar({
     },
     {
       text: "Articles",
-      icon: "book",
-      prefix: "posts/",
+      icon: "blog",
+      prefix: "articles/",
       children: "structure",
     },
-    "intro",
-    "slides",
+    "about",
   ],
 });
