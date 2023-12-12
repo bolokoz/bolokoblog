@@ -28,5 +28,5 @@ highlights:
       - title: Koeroga - Casas pré-fabricadas
         icon: truck-fast
         details: Projeto de viabilidade de casas pré-fabricadas no Mato Grosso do Sul
-        link: ./guide/advanced/seo.html
+        link: ./koeroga
 ---

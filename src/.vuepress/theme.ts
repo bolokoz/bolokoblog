@@ -13,6 +13,8 @@ export default hopeTheme({
     url: "https://mister-hope.com",
   },
 
+  
+
   iconAssets: "fontawesome-with-brands",
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
@@ -26,7 +28,7 @@ export default hopeTheme({
 
   // sidebar
   sidebar,
-  headerDepth: 4,
+  headerDepth: 3,
 
 
   footer: "Boloko blog",

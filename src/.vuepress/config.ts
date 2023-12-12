@@ -6,7 +6,7 @@ export default defineUserConfig({
 
   lang: "en-US",
   title: "Boloko Blog",
-  description: "hue hue",
+  description: "Anti Alzheimer",
 
   theme,
 
